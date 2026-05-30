@@ -1,0 +1,11 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+*~
+~$*
+
+# Claude session data
+.claude/
+
+# Logs
+*.log
